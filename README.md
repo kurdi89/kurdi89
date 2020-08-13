@@ -7,6 +7,10 @@
 
 I am a Self-Taught Full-Stack Developer 👨‍💻,
 
+> _(JavaScript for building the Web)_ Node,js, Express, Apollo, GraphQL, React, Redux, Vue, Nuxt, Postgres, MongoDB, Redis, React-Native, and Docker.
+
+> _(Python for data analysis & machine learning)_ Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Keras, Pytorch, OpenCV, TensorFlow.
+
 #### I am currently ✨ <span style="color:green"> _Available_ </span> ✨ for Jobs, or Freelancing, Part-Time or Remote
 
 ##### Currently Learning
