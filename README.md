@@ -5,8 +5,6 @@
 ![Dart](https://img.shields.io/static/v1?label&message=Dart%20💙&color=red)
 ![SQL](https://img.shields.io/static/v1?label&message=SQL%20💙&color=purple)
 
----
-
 I am a Self-Taught Full-Stack Developer 👨‍💻,
 
 I love to work on JavaScript, Python, Dart and SQL,
