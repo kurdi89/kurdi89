@@ -10,14 +10,9 @@ I love to work on JavaScript, Python, Dart and SQL,
 
 ##### Currently Learning
 
-- Data Enginnering :
+- Data Enginnering (ETL datapiplines with Postgres, Apache Cassandra and Apache Spark, Data-warehousing with AWS Redshift,Data Lake using AWS S3, Apache Spark,Automated ETL piplines using Apache Ariflow)
 
-  - ETL datapiplines with Postgres, Apache Cassandra and Apache Spark
-  - Datawarehousing with AWS Reshift
-  - Data Lake using AWS S3, Apache Spark
-  - Automated ETL piplines using Apache Ariflow
-
-- Building Microservices using ( Node.js, Docker & Kubernetes, NATS or Kafka)
+- Building Microservices using (Node.js, Docker & Kubernetes, NATS or Kafka)
 
 - Search Engines ELK Stack (Elasticsearch, Logstash, Kabana)
 
