@@ -7,15 +7,15 @@
 
 I am a Self-Taught Full-Stack Developer 👨‍💻,
 
-> _(JavaScript for building the Web)_ Node,js, Express, Apollo, GraphQL, React, Redux, Vue, Nuxt, Postgres, MongoDB, Redis, React-Native, and Docker.
+> _(JavaScript for Web)_ Node,js, Express, Apollo, GraphQL, React, Redux, Vue, Nuxt, Postgres, MongoDB, Redis, React-Native, and Docker.
 
-> _(Python for data analysis & machine learning)_ Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Keras, Pytorch, OpenCV, TensorFlow.
+> _(Python for Data)_ Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Spark, Airflow, Keras, Pytorch, OpenCV, TensorFlow.
 
 #### I am currently ✨ <span style="color:green"> _Available_ </span> ✨ for Jobs, or Freelancing, Part-Time or Remote
 
 ##### Currently Learning
 
-- Data Enginnering (ETL datapiplines with Postgres, Apache Cassandra and Apache Spark, Data-warehousing with AWS Redshift,Data Lake using AWS S3, Apache Spark,Automated ETL piplines using Apache Ariflow)
+- Data Engineering [Nano Degree by Udacity](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (ETL data piplines with Postgres, Apache Cassandra and Apache Spark, Data-warehousing with AWS Redshift,Data Lake using AWS S3, Apache Spark,Automated ETL piplines using Apache Ariflow)
 
 - Building Microservices using (Node.js, Docker & Kubernetes, NATS or Kafka)
 
