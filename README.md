@@ -27,7 +27,7 @@ I love to work on JavaScript, Python, Dart and SQL,
 
 ![counter](https://enuo42nux1rll7f.m.pipedream.net)
 [
-![GitHub followers](https://img.shields.io/github/followers/kurdi89?label=Github%20%F0%9F%91%8B&color=orange)
+![GitHub followers](https://img.shields.io/github/followers/kurdi89?label=Github%20%F0%9F%91%8B&color=green)
 ](https://github.com/kurdi89/ "Find me on Github 💚")
 [
 ![Twitter Follow](https://img.shields.io/twitter/follow/3boOodE?label=Twitter%20%F0%9F%91%8B&style=flat&color=1DA1F2)
