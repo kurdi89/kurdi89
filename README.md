@@ -6,7 +6,7 @@ I am a Self-Taught Full-Stack Developer 👨‍💻,
 
 I love to work on JavaScript, Python, Dart and SQL,
 
-##### I am currently ✨ <span style="color:green"> _Available_ </span> ✨ for Jobs, or Freelancing, Part-Time or Remote
+#### I am currently ✨ <span style="color:green"> _Available_ </span> ✨ for Jobs, or Freelancing, Part-Time or Remote
 
 ##### Currently Learning
 
