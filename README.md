@@ -1,15 +1,13 @@
-## Hi, I'm Abdullah 👋
+# Hi, I'm Abdullah 👋
 
-![JavaScript](https://img.shields.io/static/v1?label&message=JavaScript%20💙&color=yellow)
-![Python](https://img.shields.io/static/v1?label&message=Python%20💙&color=green)
-![Dart](https://img.shields.io/static/v1?label&message=Dart%20💙&color=red)
-![SQL](https://img.shields.io/static/v1?label&message=SQL%20💙&color=purple)
+![JavaScript](https://img.shields.io/static/v1?label&message=JavaScript%20💙&color=f0db4f)
+![Python](https://img.shields.io/static/v1?label&message=Python%20💙&color=306998)
+![Dart](https://img.shields.io/static/v1?label&message=Dart%20💙&color=00a758)
+![SQL](https://img.shields.io/static/v1?label&message=SQL%20💙&color=f29111)
 
 I am a Self-Taught Full-Stack Developer 👨‍💻,
 
-I love to work on JavaScript, Python, Dart and SQL,
-
-### I am currently ✨ <span style="color:green"> _Available_ </span> ✨ for Jobs, or Freelancing, Part-Time or Remote
+#### I am currently ✨ <span style="color:green"> _Available_ </span> ✨ for Jobs, or Freelancing, Part-Time or Remote
 
 ##### Currently Learning
 
