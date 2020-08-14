@@ -17,7 +17,7 @@ I am a Self-Taught Full-Stack Developer 👨‍💻,
 
 - Data Engineering [Nano Degree by Udacity](https://www.udacity.com/course/data-engineer-nanodegree--nd027) (ETL data piplines with Postgres, Apache Cassandra and Apache Spark, Data-warehousing with AWS Redshift,Data Lake using AWS S3, Apache Spark,Automated ETL piplines using Apache Ariflow)
 
-- Building Microservices using (Node.js, Docker & Kubernetes, NATS or Kafka)
+- Building Microservices using (Node.js,Express, GraphQL, Docker & Kubernetes, NATS or Apache Kafka)
 
 - Search Engines ELK Stack (Elasticsearch, Logstash, Kabana)
 
