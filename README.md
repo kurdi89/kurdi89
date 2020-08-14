@@ -19,7 +19,7 @@ I am a Self-Taught Full-Stack Developer 👨‍💻,
 
 - Building Microservices using (Node.js, Express, GraphQL, Docker & Kubernetes, NATS or Apache Kafka)
 
-- Search Engines ELK Stack (Elasticsearch, Logstash, Kabana)
+- Search Engines ELK Stack (Elasticsearch, Logstash, Kibana)
 
 ---
 
