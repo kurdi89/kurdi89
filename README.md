@@ -7,7 +7,7 @@
 
 I am a Self-Taught Full-Stack Developer 👨‍💻,
 
-> _(JavaScript for Web)_ Node,js, Express, Apollo, GraphQL, React, Redux, Vue, Nuxt, Postgres, MongoDB, Redis, React-Native, and Docker.
+> _(JavaScript for Full-Stack and Mobile Dev)_ Node,js, Express, Apollo, GraphQL, React, Redux, Vue, Nuxt, Postgres, MongoDB, Redis, React-Native, and Docker.
 
 > _(Python for Data)_ Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Spark, Airflow, Keras, Pytorch, OpenCV, TensorFlow.
 
