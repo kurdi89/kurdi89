@@ -11,7 +11,7 @@ I am a Self-Taught Full-Stack Developer 👨‍💻,
 
 > _(Python for Data)_ Pandas, Numpy, Sklearn, Matplotlib, Seaborn, Spark, Airflow, Keras, Pytorch, OpenCV, TensorFlow.
 
-#### I am currently ✨ <span style="color:green"> _Available_ </span> ✨ for Jobs, or Freelancing, Part-Time or Remote
+#### I am ✨ <span style="color:green"> _Available_ </span> ✨ for Freelancing Projects, Contact me at 89.kurdi@gmail.com
 
 ##### Currently Learning
 
